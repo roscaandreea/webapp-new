@@ -1,0 +1,8 @@
+
+#Dependency directory
+node_modules/*
+bower_components/*
+
+#Vendor
+public/css/bootstrap.css
+public/vendor/**/*

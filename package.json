@@ -1,0 +1,35 @@
+{
+  "name": "appweb",
+  "version": "1.0.0",
+  "description": "Extreme Tech Training",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roscaandreea/Webapp.git"
+  },
+  "author": "Andreea Rosca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roscaandreea/Webapp/issues"
+  },
+  "homepage": "https://github.com/roscaandreea/Webapp#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "mongoose": "^4.5.2",
+    "morgan": "^1.7.0",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "grunt": "^1.0.1",
+    "grunt-bowercopy": "^1.2.4",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}

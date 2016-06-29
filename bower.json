@@ -1,0 +1,22 @@
+{
+  "name": "appweb",
+  "description": "Extreme Tech Training",
+  "main": "index.js",
+  "authors": [
+    "Andreea Rosca"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/roscaandreea/Webapp",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "toastr": "^2.1.2",
+    "angular": "^1.5.7",
+    "angular-resource": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "bootstrap": "^3.3.6"
+  },
+  "resolutions": {
+    "jquery": "1.9.1 - 2"
+  }
+}
